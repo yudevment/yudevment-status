@@ -8,7 +8,7 @@ sites:
   - name: NoMad Web
     url: https://nm-bot.xyz/
   - name: NoMad Dash
-    url: https://dashboard.nm-bot.xyz/login.php
+    url: https://dashboard.nm-bot.xyz/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
