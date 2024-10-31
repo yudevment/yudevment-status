@@ -4,7 +4,7 @@
     "url": "http://194.164.51.48",
     "icon": "https://icons.duckduckgo.com/ip3/194.164.51.48.ico",
     "slug": "no-mad-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 272,
     "timeMonth": 266,
     "timeYear": 266,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-31": 0
+    }
   },
   {
     "name": "NoMad Web",
@@ -41,11 +43,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.nm-bot.xyz.ico",
     "slug": "no-mad-dash",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 534,
     "timeDay": 652,
     "timeWeek": 550,
