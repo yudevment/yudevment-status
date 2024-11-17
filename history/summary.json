@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/194.164.51.48.ico",
     "slug": "no-mad-app",
     "status": "up",
-    "uptime": "99.27%",
+    "uptime": "99.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.27%",
-    "uptimeYear": "99.27%",
-    "time": 256,
-    "timeDay": 217,
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "99.30%",
+    "time": 255,
+    "timeDay": 218,
     "timeWeek": 269,
-    "timeMonth": 256,
-    "timeYear": 256,
+    "timeMonth": 255,
+    "timeYear": 255,
     "dailyMinutesDown": {
       "2024-10-31": 276
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 652,
+    "time": 648,
     "timeDay": 539,
-    "timeWeek": 679,
-    "timeMonth": 652,
-    "timeYear": 652,
+    "timeWeek": 677,
+    "timeMonth": 648,
+    "timeYear": 648,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 545,
-    "timeDay": 433,
-    "timeWeek": 634,
-    "timeMonth": 545,
-    "timeYear": 545,
+    "time": 541,
+    "timeDay": 440,
+    "timeWeek": 635,
+    "timeMonth": 541,
+    "timeYear": 541,
     "dailyMinutesDown": {
       "2024-10-20": 28
     }
