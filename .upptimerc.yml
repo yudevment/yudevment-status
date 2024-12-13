@@ -4,7 +4,7 @@ repo: yudevment-status # The name of this repository
 
 sites:
   - name: NoMad App
-    url: http://194.164.51.48
+    url: https://botstatus.nm-bot.xyz/
   - name: NoMad Web
     url: https://nm-bot.xyz/
   - name: NoMad Dash
