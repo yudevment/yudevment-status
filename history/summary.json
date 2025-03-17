@@ -42,19 +42,19 @@
     "url": "https://nm-bot.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/nm-bot.xyz.ico",
     "slug": "no-mad-web",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.70%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
-    "time": 656,
-    "timeDay": 518,
-    "timeWeek": 684,
-    "timeMonth": 660,
-    "timeYear": 656,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.28%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.98%",
+    "time": 657,
+    "timeDay": 685,
+    "timeWeek": 705,
+    "timeMonth": 667,
+    "timeYear": 657,
     "dailyMinutesDown": {
-      "2025-03-17": 19
+      "2025-03-17": 39
     }
   },
   {
