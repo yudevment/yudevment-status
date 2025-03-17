@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/appstatus.nm-bot.xyz.ico",
     "slug": "no-mad-app",
     "status": "up",
-    "uptime": "88.11%",
+    "uptime": "88.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.11%",
+    "uptimeYear": "88.16%",
     "time": 282,
     "timeDay": 230,
     "timeWeek": 295,
@@ -42,10 +42,10 @@
     "url": "https://nm-bot.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/nm-bot.xyz.ico",
     "slug": "no-mad-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 656,
@@ -53,16 +53,18 @@
     "timeWeek": 684,
     "timeMonth": 660,
     "timeYear": 656,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-17": 1
+    }
   },
   {
     "name": "NoMad Dash",
     "url": "https://dashboard.nm-bot.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.nm-bot.xyz.ico",
     "slug": "no-mad-dash",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -72,6 +74,7 @@
     "timeMonth": 547,
     "timeYear": 539,
     "dailyMinutesDown": {
+      "2025-03-17": 0,
       "2024-10-20": 28
     }
   }
